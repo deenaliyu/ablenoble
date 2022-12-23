@@ -161,12 +161,12 @@
 }
 
 .slicknav_nav .slicknav_row:hover {
-  background: #DA6F3A;
+  background: #2795d0;
   color: #fff;
 }
 
 .slicknav_nav .slicknav_row:hover a {
-  background: #DA6F3A;
+  background: #2795d0;
 }
 
 .slicknav_nav a {
@@ -180,7 +180,7 @@
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
-  background: #DA6F3A;
+  background: #2795d0;
   color: #222;
 }
 
@@ -232,7 +232,7 @@
 
 .slicknav_nav a:hover {
   color: #fff;
-  background: #DA6F3A;
+  background: #2795d0;
   border-radius: 0;
   -webkit-border-radius: 0;
   -moz-border-radius: 0;

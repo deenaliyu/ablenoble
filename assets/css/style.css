@@ -5150,3 +5150,23 @@ div.pagination span.disabled {
   background: #000;
   border-bottom: 1px solid #000;
 }
+
+@media (max-width:500px){
+  .slider h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    text-transform: none;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-top: 0;
+    text-transform: uppercase;
+  }
+
+  .slider p {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+}
